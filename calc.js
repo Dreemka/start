@@ -33,6 +33,6 @@ function calc() {
 
 
 
-  result = 20 + num1 * (per + ver);
+  result = 20 + num1 * (per + ver + her);
   document.getElementById('out').innerHTML = result;
 }
